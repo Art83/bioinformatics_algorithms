@@ -1,0 +1,5 @@
+# ninja log v5
+1	428	7387717304499141	CMakeFiles/3_ReverseComplement.dir/main.cpp.obj	2cb2c7e70198b28d
+1	230	7387719002753315	build.ninja	d0bd8abf7b895ff5
+2	554	7387719120563582	CMakeFiles/3_ReverseComplement.dir/ReverseCompliment.cpp.obj	79e66e31a429feb1
+554	734	7387719122313585	3_ReverseComplement.exe	92b268548e1f8851

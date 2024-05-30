@@ -1,0 +1,4 @@
+# ninja log v5
+9	475	7387722028405930	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+0	491	7387722028565927	CMakeFiles/4_PatternMatching.dir/PatternMatching.cpp.obj	245d4a2f053fd88
+491	656	7387722030175945	4_PatternMatching.exe	94b9feaeb6b46497
