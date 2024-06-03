@@ -1,0 +1,19 @@
+# ninja log v5
+1	657	7391118893726361	CMakeFiles/5_ClumpFinding.dir/main.cpp.obj	2fbbbda8de12881d
+11	711	7391118894266346	CMakeFiles/5_ClumpFinding.dir/ClumpFinding.cpp.obj	e525639d7bb82225
+712	1180	7391118898910187	5_ClumpFinding.exe	16b6369892d117bc
+2	644	7391119394458190	CMakeFiles/5_ClumpFinding.dir/ClumpFinding.cpp.obj	e525639d7bb82225
+644	833	7391119396303448	5_ClumpFinding.exe	16b6369892d117bc
+11	740	7391128638378503	CMakeFiles/5_ClumpFinding.dir/ClumpFinding.cpp.obj	e525639d7bb82225
+2	563	7391131138594375	CMakeFiles/5_ClumpFinding.dir/main.cpp.obj	2fbbbda8de12881d
+11	742	7391131140386286	CMakeFiles/5_ClumpFinding.dir/ClumpFinding.cpp.obj	e525639d7bb82225
+742	939	7391131142316448	5_ClumpFinding.exe	16b6369892d117bc
+2	535	7391133801188322	CMakeFiles/5_ClumpFinding.dir/main.cpp.obj	2fbbbda8de12881d
+535	738	7391133803178325	5_ClumpFinding.exe	16b6369892d117bc
+2	797	7391136255539236	CMakeFiles/5_ClumpFinding.dir/ClumpFinding.cpp.obj	e525639d7bb82225
+797	1011	7391136257649236	5_ClumpFinding.exe	16b6369892d117bc
+12	563	7391139721296505	CMakeFiles/5_ClumpFinding.dir/main.cpp.obj	2fbbbda8de12881d
+3	820	7391139723856473	CMakeFiles/5_ClumpFinding.dir/ClumpFinding.cpp.obj	e525639d7bb82225
+820	1055	7391139726166464	5_ClumpFinding.exe	16b6369892d117bc
+1	536	7391141005604683	CMakeFiles/5_ClumpFinding.dir/main.cpp.obj	2fbbbda8de12881d
+536	747	7391141007654691	5_ClumpFinding.exe	16b6369892d117bc
