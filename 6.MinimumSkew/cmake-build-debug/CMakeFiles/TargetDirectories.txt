@@ -1,0 +1,3 @@
+D:/bioinformatics_algorithms/6.MinimumSkew/cmake-build-debug/CMakeFiles/6_MinimumSkew.dir
+D:/bioinformatics_algorithms/6.MinimumSkew/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/bioinformatics_algorithms/6.MinimumSkew/cmake-build-debug/CMakeFiles/rebuild_cache.dir
