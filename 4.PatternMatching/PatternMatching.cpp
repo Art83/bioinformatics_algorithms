@@ -5,7 +5,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-
+#include <fstream>
 
 std::vector<int> PatternMatching(const std::string& Pattern,
                                  const std::string& Genome){
@@ -25,6 +25,14 @@ void prt_vect(const std::vector<int>& vec){
     std::cout << "\n";
 }
 
+
+void read_genome(const std::string& path, std::string& genome) {
+    std::ifstream file(path);
+    if (file.is_open()) {
+        std::cout << "Opened!" << "\n";
+    }
+    std::getline(file, genome);
+};
 
 
 

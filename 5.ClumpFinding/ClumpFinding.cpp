@@ -50,7 +50,7 @@ void read_genome(const std::string& path, std::string& genome) {
 };
 
 void prt_vect(const std::vector<std::string>& vec){
-    for(auto i : vec){
+    for(const auto& i : vec){
         std::cout << i << " ";
     }
     std::cout << "\n";

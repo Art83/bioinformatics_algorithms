@@ -1,4 +1,19 @@
 # ninja log v5
-9	475	7387722028405930	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
-0	491	7387722028565927	CMakeFiles/4_PatternMatching.dir/PatternMatching.cpp.obj	245d4a2f053fd88
-491	656	7387722030175945	4_PatternMatching.exe	94b9feaeb6b46497
+2	523	7388365731839077	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+2	532	7388364705400135	CMakeFiles/4_PatternMatching.dir/PatternMatching.cpp.obj	245d4a2f053fd88
+523	695	7388365733529068	4_PatternMatching.exe	94b9feaeb6b46497
+2	454	7388366690252204	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+454	624	7388366691912204	4_PatternMatching.exe	94b9feaeb6b46497
+2	457	7388367610431995	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+458	625	7388367612062089	4_PatternMatching.exe	94b9feaeb6b46497
+2	457	7388367927769653	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+457	628	7388367929419658	4_PatternMatching.exe	94b9feaeb6b46497
+2	455	7388368750675026	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+456	623	7388368752305033	4_PatternMatching.exe	94b9feaeb6b46497
+12	471	7388370003828509	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+2	510	7388370004218500	CMakeFiles/4_PatternMatching.dir/PatternMatching.cpp.obj	245d4a2f053fd88
+510	679	7388370005858499	4_PatternMatching.exe	94b9feaeb6b46497
+2	459	7388370135008099	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+459	626	7388370136628098	4_PatternMatching.exe	94b9feaeb6b46497
+2	516	7388371091902860	CMakeFiles/4_PatternMatching.dir/main.cpp.obj	4066dbb396f167f3
+516	689	7388371093592857	4_PatternMatching.exe	94b9feaeb6b46497
