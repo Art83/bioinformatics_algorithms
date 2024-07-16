@@ -10,7 +10,6 @@ int HammingDistance(const std::string &p, const std::string &q){
         return 1;
     }
     int distance = 0;
-    int cnt = 0;
     for(auto it1 = p.begin(), it2 = q.begin(); it1 != p.end(); it1++, it2++){
         if(*it1 != *it2){
             distance++;

@@ -1,0 +1,6 @@
+# ninja log v5
+10	497	7428215533520135	CMakeFiles/cpp.dir/main.cpp.obj	7ae312e9e91de9b0
+0	515	7428215533700145	CMakeFiles/cpp.dir/ApproximatePatternMatching.cpp.obj	c15791d950ad5606
+515	795	7428215536452741	cpp.exe	192e13cb66da28bc
+2	462	7428215682675822	CMakeFiles/cpp.dir/main.cpp.obj	7ae312e9e91de9b0
+462	625	7428215684256533	cpp.exe	192e13cb66da28bc
